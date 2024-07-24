@@ -52,5 +52,8 @@
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0"
   },
-  "homepage": "https://Deepak-Das-7.github.io/MyWebsite"
+  "homepage": "https://Deepak-Das-7.github.io/MyWebsite",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
